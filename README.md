@@ -16,4 +16,4 @@ Kit Kats are eaten in a house next to the house where the horse is kept.
 Coffee is drunk in the green house.
 Milk is drunk in the middle house. 
 Discuss different representations of this problem as a CSP 
-![image](https://github.com/ragiunnithan/MiscellaneousPythonProjects/assets/23237905/8c72a12f-f826-4a34-929b-6642f6d8b221)
+
